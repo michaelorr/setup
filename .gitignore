@@ -1,11 +1,7 @@
 tmp/
-venv/*
-!venv/.gitkeep
 var/
-ssh/keys/
-fox/
-!fox/.gitkeep
-lib/
-!lib/.gitkeep
-php/
-!php/.gitkeep
+!var/.gitkeep
+venv/
+dot/ssh/keys/
+dot/ssh/id_rsa*
+dot/ssh/id_dsa*
