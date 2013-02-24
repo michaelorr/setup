@@ -1,0 +1,7 @@
+Host rpi
+ User pi
+ Port 2243
+
+Host linuxdev3
+  User orrm
+  Hostname linuxdev3.lan.tpa.foxnews.com

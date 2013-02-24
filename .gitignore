@@ -1,0 +1,11 @@
+tmp/
+venv/*
+!venv/.gitkeep
+var/
+ssh/keys/
+fox/
+!fox/.gitkeep
+lib/
+!lib/.gitkeep
+php/
+!php/.gitkeep
