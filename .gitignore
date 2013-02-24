@@ -3,5 +3,6 @@ var/
 !var/.gitkeep
 venv/
 dot/ssh/keys/
+!dot/ssh/keys/.gitkeep
 dot/ssh/id_rsa*
 dot/ssh/id_dsa*
