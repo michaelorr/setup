@@ -44,4 +44,4 @@ export PATH=/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/lo
 
 export WORKON_HOME=/opt/venv
 
-source /usr/local/opt/autoenv/activate.sh
+#source /usr/local/opt/autoenv/activate.sh
