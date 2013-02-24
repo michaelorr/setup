@@ -2,6 +2,7 @@ tmp/
 var/
 !var/.gitkeep
 venv/
+!venv/10gen/src/
 dot/ssh/keys/
 !dot/ssh/keys/.gitkeep
 dot/ssh/id_rsa*
