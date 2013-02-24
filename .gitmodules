@@ -1,0 +1,8 @@
+[submodule "oh-my-zsh"]
+  path = dot/oh-my-zsh
+  url = git@github.com:michaelorr/oh-my-zsh.git
+
+[submodule "10gen"]
+  path = venv/10gen/src
+  url = git@github.com:michaelorr/10gen.git
+
