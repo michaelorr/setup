@@ -51,4 +51,4 @@ ssh-keygen -N "" -f "$HOME/.ssh/id_rsa"
 ##
 
 sudo apt-get update
-sudo apt-get upgrade
+sudo apt-get --yes upgrade
